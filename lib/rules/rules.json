@@ -244,6 +244,10 @@
         "compatible": true,
         "alternative": "String.prototype.trim()"
     },
+    "trimEnd": {
+        "compatible": false,
+        "alternative": "String.prototype.trimEnd()"
+    },
     "padStart": {
         "compatible": true,
         "alternative": "String.prototype.padStart()",
